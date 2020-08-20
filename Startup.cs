@@ -5,6 +5,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using BooksApi.Models;
 using Microsoft.Extensions.Options;
+using BooksApi.Services;
 
 namespace BooksApi
 {
@@ -26,6 +27,8 @@ namespace BooksApi
 
             services.AddSingleton<IBookstoreDatabaseSettings>(sp =>
                 sp.GetRequiredService<IOptions<BookstoreDatabaseSettings>>().Value);
+
+            services.AddSingleton<BookService>();
 
             services.AddControllers();
         }

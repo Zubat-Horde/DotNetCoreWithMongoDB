@@ -8,3 +8,15 @@ C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\obj\Debug\netcoreapp3.1\BooksApi.As
 C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\obj\Debug\netcoreapp3.1\BooksApi.RazorTargetAssemblyInfo.cache
 C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\obj\Debug\netcoreapp3.1\staticwebassets\BooksApi.StaticWebAssets.Manifest.cache
 C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\obj\Debug\netcoreapp3.1\staticwebassets\BooksApi.StaticWebAssets.xml
+C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\bin\Debug\netcoreapp3.1\snappy32.dll
+C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\bin\Debug\netcoreapp3.1\snappy64.dll
+C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\bin\Debug\netcoreapp3.1\libzstd.dll
+C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\obj\Debug\netcoreapp3.1\BooksApi.csproj.CopyComplete
