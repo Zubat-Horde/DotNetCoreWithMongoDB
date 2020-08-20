@@ -20,3 +20,14 @@ C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\bin\Debug\netcoreapp3.1\runtimes\wi
 C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
 C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
 C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\obj\Debug\netcoreapp3.1\BooksApi.csproj.CopyComplete
+C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\bin\Debug\netcoreapp3.1\BooksApi.deps.json
+C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\bin\Debug\netcoreapp3.1\BooksApi.runtimeconfig.json
+C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\bin\Debug\netcoreapp3.1\BooksApi.runtimeconfig.dev.json
+C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\bin\Debug\netcoreapp3.1\BooksApi.dll
+C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\bin\Debug\netcoreapp3.1\BooksApi.pdb
+C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\obj\Debug\netcoreapp3.1\BooksApi.csproj.CoreCompileInputs.cache
+C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\obj\Debug\netcoreapp3.1\BooksApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\obj\Debug\netcoreapp3.1\BooksApi.dll
+C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\obj\Debug\netcoreapp3.1\BooksApi.pdb
+C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\obj\Debug\netcoreapp3.1\BooksApi.genruntimeconfig.cache
