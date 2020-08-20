@@ -1,0 +1,10 @@
+C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\bin\Debug\netcoreapp3.1\BooksApi.exe
+C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\obj\Debug\netcoreapp3.1\BooksApi.csprojAssemblyReference.cache
+C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\obj\Debug\netcoreapp3.1\BooksApi.AssemblyInfoInputs.cache
+C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\obj\Debug\netcoreapp3.1\BooksApi.AssemblyInfo.cs
+C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\obj\Debug\netcoreapp3.1\BooksApi.RazorTargetAssemblyInfo.cache
+C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\obj\Debug\netcoreapp3.1\staticwebassets\BooksApi.StaticWebAssets.Manifest.cache
+C:\Users\ctj0709\repos\DotNetCoreWithMongoDB\obj\Debug\netcoreapp3.1\staticwebassets\BooksApi.StaticWebAssets.xml
